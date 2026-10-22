@@ -1,0 +1,12 @@
+{
+  "name": "web-registrasi-vd",
+  "version": "1.0.0",
+  "description": "Web Registrasi Funmatch Violent District Roblox",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
